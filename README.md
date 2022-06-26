@@ -71,9 +71,9 @@ We will use **sales volume** as the gauge for performance - grouped by vehicles 
 * Engine Type
 * Safety rating
 * Price
-**
-The null hypothesis:** MechaCar vehicles' sales volume is accurately reflected relative to the key variables above when compared to other manufacturers.
-**The altherative hypothesis:** echar vehicles' sales volume does not correlate to the key variables when above compared to other manufacturers.
+
+**The null hypothesis:** MechaCar vehicles' sales volume is accurately reflected relative to the key variables above when compared to other manufacturers.
+**The altherative hypothesis:** MechaCar vehicles' sales volume does not correlate to the key variables above compared to other manufacturers.
 
 We can conduct several statistical tests to test the hypothesis, such as a multiple linear regression to help inform us how much each variable impacts sales volume (dependent varaible) and utilize t-tests using data from Mechacar and its competitors to point to any significant differences that could requirement further examinations.
 
